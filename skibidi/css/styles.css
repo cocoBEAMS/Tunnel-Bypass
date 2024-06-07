@@ -118,3 +118,7 @@ body {
     width: 450px;
   }
 }
+
+body {
+  background: linear-gradient(black, #222); /* Adjust colors as desired */
+}
